@@ -106,3 +106,7 @@ Feature importance analysis
 Deployment as a web service
 
 This project serves as a comprehensive example of applying deep learning to real-world business problems in the banking sector.
+
+## Accuracy Acheived
+<img width="136" height="74" alt="image" src="https://github.com/user-attachments/assets/c40597ab-f9e5-4d76-a46e-8b0ddfbfbd42" />
+
